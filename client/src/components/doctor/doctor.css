@@ -113,11 +113,11 @@ html {
     margin: -1rem; /* Adjust the margin to make them closer together */
 }
 
-.ourdoc .ourboxcontainer .ourbox .share a:hover {
+/* .ourdoc .ourboxcontainer .ourbox .share a:hover {
     background: white;
     color: white;
     box-shadow: var(--box-shadow);
-}
+} */
 
 
 .footer li a:hover {
